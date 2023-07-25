@@ -1,0 +1,42 @@
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+h2{
+    margin: 20px 0px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+input{
+    margin: 10px 0px;
+    padding: 10px 5px;
+}
+
+button:hover{
+    background-color: rgb(94, 94, 253);
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+button{
+    margin: 10px 0px;
+    background-color: blue;
+    border: none;
+    border-radius: 3px;
+    padding: 8px 11px;
+    color: white;
+    font-weight: lighter;
+    font-size: 0.9rem;
+}
+
+h3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

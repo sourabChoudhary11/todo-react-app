@@ -1,0 +1,11 @@
+.todoItem{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.todoItem>input{
+    width: 24px;
+    height: 24px;
+    background-color: blue;
+}
